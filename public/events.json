@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "anime_name": "Dragon Ball Z",
+        "image": "https://images7.alphacoders.com/611/611138.png",
+        "description": "Dragon Ball Z follows the adventures of Goku who, along with the Z Warriors, defends the Earth against evil."
+    },
+    {
+        "id": "2",
+        "anime_name": "Blue Lock",
+        "image": "https://images6.alphacoders.com/131/1319754.jpeg",
+        "description": "Blue Lock is a Japanese manga series written by Muneyuki Kaneshiro and illustrated by Yusuke Nomura. "
+    },
+    {
+        "id": "3",
+        "anime_name": "Death Note",
+        "image": "https://images2.alphacoders.com/153/153250.jpg",
+        "description": "A high-school student discovers a supernatural notebook that grants its user the ability to kill."
+    },
+    {
+        "id": "4",
+        "anime_name": "Naruto Shippuden",
+        "image": "https://images8.alphacoders.com/487/487189.jpg",
+        "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition on his journey to becoming Hokage in his village."
+    },
+    {
+        "id": "5",
+        "anime_name": "Attack On Titan" ,
+        "image": "https://images7.alphacoders.com/418/418724.png",
+        "description": "When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks."
+    },
+    {
+        "id": "6",
+        "anime_name": "Demon Slayer" ,
+        "image": "https://i.pinimg.com/originals/53/9c/9e/539c9eb437b29d132b0af5a42f1bb1d4.jpg",
+        "description": "Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge."
+    }
+]

@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'travel-bg': "url('https://www.allianz-partners.com/en_global/products/travel/_jcr_content/root/parsys/wrapper_copy/wrapper/image.img.82.3360.jpeg/1656941434579/travel-1800x600px.jpeg')",
+      },
       fontFamily: {
         exo: "'Exo 2', sans-serif;",
         josephin: "'Josefin Sans', sans-serif;",
