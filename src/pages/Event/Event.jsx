@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Marquee from "react-fast-marquee";
 import Aos from 'aos';
 import 'aos/dist/aos.css'
+import { Link } from 'react-router-dom';
 const Event = () => {
     useEffect( () => {
         Aos.init();
@@ -25,7 +26,9 @@ const Event = () => {
                         <div className="card-body">
                         <p>{event.anime_name}</p>
                             <div className="card-actions justify-center">
+                                <Link to={`/event/${event.id}`}>
                                 <button className="text-xl bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-r hover:from-sky-500 hover:to-indigo-500 text-white font-bold p-2 rounded-full">Details</button>
+                                </Link>
                             </div>
                         </div>
                     </div>

@@ -3,36 +3,60 @@
         "id": "1",
         "anime_name": "Dragon Ball Z",
         "image": "https://images7.alphacoders.com/611/611138.png",
-        "description": "Dragon Ball Z follows the adventures of Goku who, along with the Z Warriors, defends the Earth against evil."
+        "description": "Dragon Ball Z follows the adventures of Goku who, along with the Z Warriors, defends the Earth against evil.",
+        "image1": "https://i.pinimg.com/736x/60/35/31/6035319c1a4d99dec0922625f684d364.jpg",
+        "image2": "https://miro.medium.com/v2/resize:fit:800/0*mQ_ZvoThNNFZ8GOj.jpg",
+        "image3": "https://i.pinimg.com/originals/97/f3/45/97f345c10ea4067124899a8aaa515290.jpg",
+        "image4": "https://thumbs.dreamstime.com/b/cosplay-as-character-dragon-ball-birmingham-uk-november-cosplayer-dressed-as-goku-his-supersaiyen-blue-form-dragon-106143737.jpg"
     },
     {
         "id": "2",
         "anime_name": "Blue Lock",
         "image": "https://images6.alphacoders.com/131/1319754.jpeg",
-        "description": "Blue Lock is a Japanese manga series written by Muneyuki Kaneshiro and illustrated by Yusuke Nomura. "
+        "description": "Blue Lock is a Japanese manga series written by Muneyuki Kaneshiro and illustrated by Yusuke Nomura. ",
+        "image1": "https://pbs.twimg.com/media/FuUlqDPaYAAyJjh.jpg:large",
+        "image4": "https://ae01.alicdn.com/kf/Sbb3536e98d314259a039bf088bc0e9efz.jpg_640x640Q90.jpg_.webp",
+        "image3": "https://media.karousell.com/media/photos/products/2023/3/31/bachira_meguru_blue_lock_cospl_1680250971_82ec3019.jpg",
+        "image2": "https://holouncosplay.com/cdn/shop/products/309664003_643417457149380_5966248806933938380_n.jpg?v=1664876951"
     },
     {
         "id": "3",
         "anime_name": "Death Note",
         "image": "https://images2.alphacoders.com/153/153250.jpg",
-        "description": "A high-school student discovers a supernatural notebook that grants its user the ability to kill."
+        "description": "A high-school student discovers a supernatural notebook that grants its user the ability to kill. Be the Kira or L you want to be. Be whatever you want.",
+        "image4": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/10/L-Feature-1.jpg",
+        "image2": "https://i.pinimg.com/originals/de/67/37/de67377aed10e10ca39335a6d8a56e24.jpg",
+        "image3": "https://i.ytimg.com/vi/dcB3w93w2KI/maxresdefault.jpg",
+        "image1": "https://pm1.aminoapps.com/7508/d16c0b01fd6725fd7b9f38709de2302c6a806249r1-750-826v2_uhq.jpg"
     },
     {
         "id": "4",
         "anime_name": "Naruto Shippuden",
         "image": "https://images8.alphacoders.com/487/487189.jpg",
-        "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition on his journey to becoming Hokage in his village."
+        "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition on his journey to becoming Hokage in his village.",
+        "image1": "https://dailyanimeart.files.wordpress.com/2014/09/uzumaki-naruto-cosplay-sage-mode-by-mimixum1.jpg?w=325",
+        "image2": "https://1.bp.blogspot.com/-BHTkqcSVMLY/X3__zDb6WsI/AAAAAAABytw/a0XThADn4ecRPdRWLHF6aV5X5y4skPW3gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Naruto%2Bcosplay%2BHalloween%2Bcostumes%2Bsasuke%2Banime%2Bdiy%2B%252826%2529-min.JPG",
+        "image3": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4963ef47-7af0-4a9b-b166-da82de2aafdf/dfz468f-c830f068-2c18-49e8-82b0-cfba68f6f944.jpg/v1/fill/w_600,h_644,q_75,strp/anime_north_2023__land_of_waves__naruto_cosplay__by_asziitoashes_dfz468f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ0IiwicGF0aCI6IlwvZlwvNDk2M2VmNDctN2FmMC00YTliLWIxNjYtZGE4MmRlMmFhZmRmXC9kZno0NjhmLWM4MzBmMDY4LTJjMTgtNDllOC04MmIwLWNmYmE2OGY2Zjk0NC5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.rjNW4H9qaJtjJvynRyQ_iqyr_jExbZtY8Eztto6Q3V8",
+        "image4": "https://live.staticflickr.com/3071/2644183001_bdb6e6b95b_z.jpg"
     },
     {
         "id": "5",
         "anime_name": "Attack On Titan" ,
         "image": "https://images7.alphacoders.com/418/418724.png",
-        "description": "When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks."
+        "description": "When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks.",
+        "image3": "https://i.pinimg.com/736x/ff/26/45/ff2645c2bed7a6f94d7099fff57146da.jpg",
+        "image2": "https://i.pinimg.com/originals/24/d0/50/24d050321fda759a7c83e7cb16e08ac9.jpg",
+        "image1": "https://i.pinimg.com/originals/39/dc/50/39dc50cc5fb2596a911d2a147d254261.jpg",
+        "image4": "https://sc04.alicdn.com/kf/H6268a9721ef24dbeb44d54ff1bf737ec1.jpg"
     },
     {
         "id": "6",
         "anime_name": "Demon Slayer" ,
         "image": "https://i.pinimg.com/originals/53/9c/9e/539c9eb437b29d132b0af5a42f1bb1d4.jpg",
-        "description": "Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge."
+        "description": "Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge.",
+        "image1": "https://m.media-amazon.com/images/I/7167Buo1hqL._AC_UF1000,1000_QL80_.jpg",
+        "image2": "https://i.pinimg.com/originals/4f/a4/e5/4fa4e565931db75327a69bd40d399bce.jpg",
+        "image3": "https://media.karousell.com/media/photos/products/2023/4/7/wtrrentnezuko_kamado_demon_sla_1680878333_5db8b8ef.jpg",
+        "image4": "https://honeysanime.com/wp-content/uploads/2021/06/Demon-Slayer-COsplay-Belaincos-Instagram-500x334.jpeg"
     }
 ]

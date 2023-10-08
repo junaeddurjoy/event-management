@@ -1,5 +1,6 @@
 import React from 'react';
 import { BiUserCircle } from 'react-icons/bi'
+import { Link } from 'react-router-dom';
 const Navbar = () => {
     return (
         <div className='bg-gradient-to-r from-purple-500 to-pink-500 shadow-lg '>
@@ -14,7 +15,7 @@ const Navbar = () => {
                             <li><a>Career</a></li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-3xl">AnimeCon</a>
+                    <Link to={'/'}><a className="btn btn-ghost normal-case text-3xl">AnimeCon</a></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal text-white font-semibold px-1">
