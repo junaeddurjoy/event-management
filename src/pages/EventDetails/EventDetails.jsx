@@ -10,7 +10,7 @@ const EventDetails = () => {
         <div>
             <Navbar></Navbar>
             <p className="font-josephin text-center text-3xl my-10">Be Whomever You Want!</p>
-            <div className="font-josephin my-8 mx-40">
+            <div className="font-josephin my-8 lg:mx-40">
                 <img src={event.image} alt="" />
                 <h2 className="my-4 text-left text-4xl font-bold">{event.anime_name}</h2>
 

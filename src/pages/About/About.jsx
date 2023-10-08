@@ -7,10 +7,10 @@ const About = () => {
         <div className='font-josephin'>
             <Navbar></Navbar>
             <div className='my-10'>
-                <h2 className='text-xl'>We have a variety of cosplayers from <span className='bg-red-600 hover:bg-red-500 rounded-xl p-4 text-white'>Marvel</span> and <span className='p-4 bg-black hover:bg-gray-800 text-white rounded-xl'>DC</span>. 
+                <h2 className='text-xl'>We have a variety of cosplayers from <span className='bg-red-600 hover:bg-red-500 rounded-xl p-2 text-white'>Marvel</span> and <span className='p-2 bg-black hover:bg-gray-800 text-white rounded-xl'>DC</span>. 
                 <br />
                 <br />
-                We also have cosplayers from <span className='text-white bg-purple-600 hover:bg-purple-500 rounded-xl p-4'>Anime</span>
+                We also have cosplayers from <span className='text-white bg-purple-600 hover:bg-purple-500 rounded-xl p-2'>Anime</span>
                 </h2>
                 <br />
                 <h2 className='text-xl mb-10'>Our cosplayers unites together and make themeselves part of the commity of their comics with other cosplayers.</h2>
