@@ -1,7 +1,14 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { BiUserCircle } from 'react-icons/bi'
 import { Link } from 'react-router-dom';
+import { AuthContext } from '../../../provider/AuthProvider';
 const Navbar = () => {
+    const { user, logout } = useContext(AuthContext);
+    const handleSignOut = e => {
+        logout()
+            .then()
+            .catch()
+    }
     return (
         <div className='bg-gradient-to-r from-purple-500 to-pink-500 shadow-lg '>
             <div className="navbar lg:flex">
@@ -24,9 +31,18 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <div className=" rounded-full flex gap-3">
-                        <p><BiUserCircle className='bg-white hover:bg-red-600 text-red-600 hover:text-white rounded-full'></BiUserCircle></p>
-                        <button className='text-sm font-bold bg-slate-900 hover:bg-white  rounded-lg text-white hover:text-slate-900 px-2'>Login</button>
+                    <div className=" rounded-full flex items-center gap-3">
+                        <Link to={'/login'}>
+                        <p><BiUserCircle className='bg-white text-3xl hover:bg-red-600 text-red-600 hover:text-white rounded-full'></BiUserCircle></p>
+                        </Link>
+                        {
+                            user ?
+                                <button onClick={handleSignOut} className='text-sm font-bold bg-slate-900 hover:bg-white  rounded-lg text-white hover:text-slate-900 px-2 py-2'>Sign Out</button>
+                                :
+                                <Link to={'/login'}>
+                                    <button className='text-sm font-bold bg-slate-900 hover:bg-white  rounded-lg text-white hover:text-slate-900 px-2 py-2'>Login</button>
+                                </Link>
+                        }
                     </div>
                 </div>
             </div>
