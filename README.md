@@ -1,6 +1,6 @@
 Website: ComicCon Event Management
 <br/>
-live link: https://652296b1b8d01f21a58af146--stellular-rugelach-82e0cd.netlify.app/
+live link: https://event-management-63dd3.web.app/
 <br/>
 Features:
 1. Users can register and login
