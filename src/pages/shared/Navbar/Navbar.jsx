@@ -23,7 +23,7 @@ const Navbar = () => {
                         <Link to={'/career'}><li><a>Career</a></li></Link>
                         </ul>
                     </div>
-                    <Link to={'/'}><a className="btn btn-ghost normal-case text-3xl">AnimeCon</a></Link>
+                    <Link to={'/'}><a className="btn btn-ghost normal-case text-3xl">ComicCon</a></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal text-white font-semibold px-1">

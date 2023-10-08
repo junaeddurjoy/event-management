@@ -12,7 +12,7 @@ const Home = () => {
         <div className='font-josephin text-3xl'>
             <Navbar></Navbar>
             <Marquee className='mt-3'>
-                Do you love ANIME? Let's get started being your favorite anime character with us.
+                Do you love COMICS? Let's get started being your favorite comic character with us.
             </Marquee>
             <Slider></Slider>
             <Event></Event>

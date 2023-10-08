@@ -7,7 +7,7 @@ const Career = () => {
         <div className='font-josephin'>
             <Navbar></Navbar>
             <div className='text-3xl my-5'>
-                You can build your career haere with us.
+                You can build your career here with us.
                 <ul className='text-left'>
                     <li>
                         <div>
