@@ -4,6 +4,8 @@ import Marquee from "react-fast-marquee";
 import Event from '../Event/Event';
 import Footer from '../shared/Footer/Footer';
 import Slider from '../shared/Slider/Slider';
+import Card from '../Card/Card';
+import Characters from '../Characters/Characters';
 
 const Home = () => {
     return (
@@ -14,6 +16,8 @@ const Home = () => {
             </Marquee>
             <Slider></Slider>
             <Event></Event>
+            <Card></Card>
+            <Characters></Characters>
             <Footer></Footer>
         </div>
     );
