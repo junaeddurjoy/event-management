@@ -1,5 +1,7 @@
-Website: AimeCon Event Management
+Website: ComicCon Event Management
+<br/>
 live link: https://652296b1b8d01f21a58af146--stellular-rugelach-82e0cd.netlify.app/
+<br/>
 Features:
 1. Users can register and login
 2. Users will have private routes
