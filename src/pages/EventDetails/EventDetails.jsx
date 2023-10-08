@@ -13,7 +13,10 @@ const EventDetails = () => {
             <div className="font-josephin my-8 mx-40">
                 <img src={event.image} alt="" />
                 <h2 className="my-4 text-left text-4xl font-bold">{event.anime_name}</h2>
+
+                <p className="text-left text-lg">Price: {event.price}</p>
                 <p className="text-left text-lg">{event.description}</p>
+
                 <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-7 my-10">
                     <img src={event.image1} alt="" />
                     <img src={event.image2} alt="" />

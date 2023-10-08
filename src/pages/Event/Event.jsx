@@ -16,7 +16,7 @@ const Event = () => {
     return (
         <div>
             <Marquee className='mt-3'>
-                Our Ongoing Events
+                Our Services
             </Marquee>
             <div className=''>
             {
@@ -25,6 +25,7 @@ const Event = () => {
                         <figure><img src={event.image} alt="Album" /></figure>
                         <div className="card-body">
                         <p>{event.anime_name}</p>
+                        <p className='text-xl'>{event.price}tk</p>
                             <div className="card-actions justify-center">
                                 <Link to={`/event/${event.id}`}>
                                 <button className="text-xl bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-r hover:from-sky-500 hover:to-indigo-500 text-white font-bold p-2 rounded-full">Details</button>

@@ -7,12 +7,15 @@ import EventDetails from "../pages/EventDetails/EventDetails";
 import PrivateRoutes from "./PrivateRoutes";
 import About from "../pages/About/About";
 import Career from "../pages/Career/Career";
+import Errorpage from "../pages/Errorpage/Errorpage";
 
 
 const routes = createBrowserRouter([
     {
       path: "/",
       element: <Root></Root>,
+      errorElement: <Errorpage></Errorpage>,
+    //   errorElement: <Errorpage></Errorpage>,
       children: [
         {
             path: "/",
