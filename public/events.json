@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "anime_name": "Dragon Ball Z",
+        "anime_name": "Dragon Ball Z CosplayCon",
         "image": "https://images7.alphacoders.com/611/611138.png",
         "description": "Dragon Ball Z follows the adventures of Goku who, along with the Z Warriors, defends the Earth against evil.",
         "image1": "https://i.pinimg.com/736x/60/35/31/6035319c1a4d99dec0922625f684d364.jpg",
@@ -12,7 +12,7 @@
     },
     {
         "id": "2",
-        "anime_name": "Blue Lock",
+        "anime_name": "Blue Lock CosplayCon",
         "image": "https://images6.alphacoders.com/131/1319754.jpeg",
         "description": "Blue Lock is a Japanese manga series written by Muneyuki Kaneshiro and illustrated by Yusuke Nomura. ",
         "image1": "https://pbs.twimg.com/media/FuUlqDPaYAAyJjh.jpg:large",
@@ -23,7 +23,7 @@
     },
     {
         "id": "3",
-        "anime_name": "Death Note",
+        "anime_name": "Death Note CosplayCon",
         "image": "https://images2.alphacoders.com/153/153250.jpg",
         "description": "A high-school student discovers a supernatural notebook that grants its user the ability to kill. Be the Kira or L you want to be. Be whatever you want.",
         "image4": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/10/L-Feature-1.jpg",
@@ -34,7 +34,7 @@
     },
     {
         "id": "4",
-        "anime_name": "Naruto Shippuden",
+        "anime_name": "Naruto Shippuden CosplayCon",
         "image": "https://images8.alphacoders.com/487/487189.jpg",
         "description": "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition on his journey to becoming Hokage in his village.",
         "image1": "https://dailyanimeart.files.wordpress.com/2014/09/uzumaki-naruto-cosplay-sage-mode-by-mimixum1.jpg?w=325",
@@ -45,7 +45,7 @@
     },
     {
         "id": "5",
-        "anime_name": "Attack On Titan" ,
+        "anime_name": "Attack On Titan CosplayCon" ,
         "image": "https://images7.alphacoders.com/418/418724.png",
         "description": "When man-eating Titans first appeared 100 years ago, humans found safety behind massive walls that stopped the giants in their tracks.",
         "image3": "https://i.pinimg.com/736x/ff/26/45/ff2645c2bed7a6f94d7099fff57146da.jpg",
@@ -56,7 +56,7 @@
     },
     {
         "id": "6",
-        "anime_name": "Demon Slayer" ,
+        "anime_name": "Demon Slayer CosplayCon" ,
         "image": "https://i.pinimg.com/originals/53/9c/9e/539c9eb437b29d132b0af5a42f1bb1d4.jpg",
         "description": "Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge.",
         "image1": "https://m.media-amazon.com/images/I/7167Buo1hqL._AC_UF1000,1000_QL80_.jpg",
